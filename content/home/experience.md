@@ -19,27 +19,54 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoc"
+  company = "Justus-Liebig University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Giessen, Germany"
+  date_start = "2018-01-15"
   date_end = ""
   description = """
-  Responsibilities include:
+  * Psychophysics
+  * Unsupervised deep learning
+  """
   
-  * Analysing
-  * Modelling
-  * Deploying
+[[experience]]
+  title = "Data Scientist"
+  company = "Twitter"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2017-07-01"
+  date_end = "2017-12-31"
+  description = """Optimising measurement of perceived video quality."""
+  
+[[experience]]
+  title = "Postdoc"
+  company = "MRC Cognition and Brain Sciences Unit, University of Cambridge"
+  company_url = ""
+  location = "Cambridge, UK"
+  date_start = "2015-02-15"
+  date_end = "2017-06-30"
+  description = """
+  * Representational similarity analysis
+  * fMRI
+  * Deep learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Fellow in Visual Perception"
+  company = "University College London"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "London, UK"
+  date_start = "2014-07-01"
+  date_end = "2013-10-01"
+  description = """Coordinating and lecturing undergraduate psychology courses."""
+  
+  [[experience]]
+  title = "PhD candidate"
+  company = "University of Queensland"
+  company_url = ""
+  location = "Brisbane, Australia"
+  date_start = "2011-11-01"
+  date_end = "2015-02-10"
+  description = """Thesis: "Norms are Not the Norm: Testing Theories of Sensory Encoding using Visual Aftereffects" """
 +++
