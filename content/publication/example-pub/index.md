@@ -1,8 +1,9 @@
-# Publication page template, copied from:
-# https://github.com/gcushen/hugo-academic/blob/master/exampleSite/content/publication/person-re-id/index.md
 +++
 title = "Test Publication"
 date = 2015-09-01
+
+# Publication page template, copied from:
+# https://github.com/gcushen/hugo-academic/blob/master/exampleSite/content/publication/person-re-id/index.md
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["KR Storrs"]
