@@ -30,13 +30,13 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Psychological Science"
   institution = "University of Queensland, Brisbane, Australia"
-  year = 2016
+  year = 2015
 
 [[education.courses]]
   course = "Bachelor of Psychological Science (Hons I)"
