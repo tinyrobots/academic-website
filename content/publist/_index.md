@@ -13,8 +13,8 @@ type = "docs" # Do not modify.
   weight = 1
 +++
 
-# Peer Reviewed Journal Articles
-
+## **Peer Reviewed Journal Articles**
+  
 14. Fleming, R. W. & **Storrs, K. R.** (_under review_). Learning to see stuff. _Current Opinions in Behavioral Sciences_.
 
 13. Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
@@ -42,19 +42,22 @@ type = "docs" # Do not modify.
 2. **Storrs, K. R.** & Arnold, D. H. (2012). Not all face aftereffects are equal. _Vision Research, 64_, 7–16.
 
 1. Philipp, M. C., **Storrs, K. R.**, & Vanman, E. J. (2012). Sociality of facial expressions in immersive virtual environments: a facial EMG study. _Biological Psychology, 91_(1), 17–21.
-
-# Peer Reviewed Conference Proceedings
-
+  
+  
+## **Peer Reviewed Conference Proceedings**
+  
 1. **Storrs, K. R.**, Van Leuven, S., Kojder, S., Theis, L. & Huszár, F. (2018). Adaptive paired-comparison method for subjective video quality assessment on mobile devices. _Proceedings of the 33rd Picture Coding Symposium, IEEE Signal Processing Society._  
-
-# Book Chapters
-
+  
+  
+## **Book Chapters**
+  
 2. **Storrs, K. R.** & Kriegeskorte, N. (_in press_). _Deep learning for cognitive neuroscience._ In M. Gazzaniga (Ed.), The Cognitive Neurosciences (6th Edition). Boston: MIT Press.
 
 1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with lack of control in a social world (Chap. 2, pp. 35–48). New York: Routledge.
-
-# Conference Presentations
-
+  
+  
+## **Conference Presentations**
+  
 30. **Storrs, K. R.** & Fleming, R. W. (2019, May). Unsupervised neural networks learn idiosyncrasies of human gloss perception. _Talk to be presented at the Vision Sciences Society, St Pete’s Beach, Florida._
 
 29. **Storrs, K. R.** (2018, November). Machines that learn the quirks and failures of human gloss perception. _Talk presented at The Skin of Things workshop at the Rijksmuseum, Amsterdam, Netherlands._
