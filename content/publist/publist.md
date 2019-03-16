@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Publications"
-[menu.tutorial]
+[menu.publist]
   parent = "Peer reviewed journal papers"
   weight = 1
 +++
