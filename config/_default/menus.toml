@@ -14,6 +14,7 @@
   weight = 20
 
 [[main]]
+  pre = "<i class=\"fas fa-book\" style=\"color: #000000;\"></i>"
   name = "Publications"
   url = "/publist/"
   weight = 30
@@ -24,6 +25,7 @@
   weight = 40
 
 [[main]]
+  pre = "<i class=\"fas fa-brush\" style=\"color: #000000;\"></i>"
   name = "Art"
   url = "#art"
   weight = 50
