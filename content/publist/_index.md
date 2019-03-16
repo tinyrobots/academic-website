@@ -8,9 +8,9 @@ toc = false # Show table of contents? true/false
 type = "docs" # Do not modify.
 
 # Add menu entry to sidebar.
-#[menu.publist] 
-#  name = "Publications" 
-#  weight = 1 
+[menu.publist] 
+  name = "Publications" 
+  weight = 1 
 +++
 
 Example text in _index.md....
