@@ -9,9 +9,9 @@ toc = false  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Journal articles"
+#linktitle = "Journal articles"
 [menu.publist]
-  parent = "Publications"
+  parent = "publications"
   weight = 2
 +++
 
