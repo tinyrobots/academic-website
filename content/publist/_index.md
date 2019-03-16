@@ -9,7 +9,7 @@ type = "docs" # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.publist]
-  name = "Publications"
+  name = ""
   weight = 1
 +++
 
