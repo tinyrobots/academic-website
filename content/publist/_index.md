@@ -7,10 +7,6 @@ draft = false # Is this a draft? true/false
 toc = false # Show table of contents? true/false 
 type = "docs" # Do not modify.
 
-# Add menu entry to sidebar.
-#[menu.publist] 
-#  name = "Publications" 
-#  weight = 1 
 +++
 
 # Peer Reviewed Journal Articles
