@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Journal articles"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,10 +9,10 @@ toc = false  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-#linktitle = "Publications"
-#[menu.publist]
-#  parent = "Publications"
-#  weight = 1
+linktitle = "Journal articles"
+[menu.publist]
+  parent = "Publications"
+  weight = 2
 +++
 
 ## Peer Reviewed Journal Articles
@@ -114,5 +114,3 @@ Greenaway, K. H., Philipp, M. C., & Storrs, K. R. (2011, July). Explaining the c
 Greenaway, K. H., Philipp, M. C., & Storrs, K. R. (2011, July). Social consequences of lacking control: possible neural pathways. Poster presented at The Nature of Prejudice: A Neuroscience Perspective colloquium, Amsterdam, The Netherlands.
 
 Storrs, K. R., Diamond, A., & Arnold, D. H. (2011, May). Face aftereffects – evidence opposing opponent coding. Poster presented at the Vision Sciences Society conference, Naples, Florida, USA.
-
-...
