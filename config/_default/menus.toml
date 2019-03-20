@@ -2,35 +2,41 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+# Find icons here: https://fontawesome.com/icons?d=gallery&m=free
 
 [[main]]
-  name = "Home"
+  pre = "<i class=\"fas fa-home\" style=\"color: #000000;\"></i>"
+  name = "" # home
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Research projects"
-  url = "#projects"
-  weight = 20
-
-[[main]]
-  pre = "<i class=\"fas fa-book\" style=\"color: #000000;\"></i>"
+  pre = "<i class=\"fas fa-bars\" style=\"color: #000000;\"></i>"
   name = "Publications"
   url = "/publist/"
+  weight = 20
+  
+
+[[main]]
+  pre = "<i class=\"fas fa-flask\" style=\"color: #000000;\"></i>"
+  name = "Research projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
+  pre = "<i class=\"far fa-comments\" style=\"color: #000000;\"></i>"
   name = "Science communication"
   url = "#scicomm"
   weight = 40
 
 [[main]]
-  pre = "<i class=\"fas fa-brush\" style=\"color: #000000;\"></i>"
+  pre = "<i class=\"fas fa-palette\" style=\"color: #000000;\"></i>"
   name = "Art"
   url = "#art"
   weight = 50
   
 [[main]]
+  pre = "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i>"
   name = "Contact"
   url = "#contact"
   weight = 100
