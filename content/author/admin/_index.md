@@ -16,16 +16,17 @@ role = "Postdoc in Visual Neuroscience"
 organizations = [ { name = "Justus-Liebig University, Giessen, Germany", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Website under construction..."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Visual Perception",
-  "Computer Vision",
-  "Psychophysics"
+  "Visual perception",
+  "Deep learning",
+  "Psychophysics",
+  "Material and object perception"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -78,4 +79,4 @@ user_groups = []
 
 +++
 
-Website under construction....for now, see https://www.katestorrs.com
+Website under construction. More details coming soon!
