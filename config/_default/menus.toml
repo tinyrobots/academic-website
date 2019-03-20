@@ -17,23 +17,23 @@
   weight = 20
   
 
-[[main]]
-  pre = "<i class=\"fas fa-flask\" style=\"color: #000000;\"></i>"
-  name = "Research projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  pre = "<i class=\"fas fa-flask\" style=\"color: #000000;\"></i>"
+#  name = "Research projects"
+#  url = "#projects"
+#  weight = 30
 
-[[main]]
-  pre = "<i class=\"far fa-comments\" style=\"color: #000000;\"></i>"
-  name = "Science communication"
-  url = "#scicomm"
-  weight = 40
+#[[main]]
+#  pre = "<i class=\"far fa-comments\" style=\"color: #000000;\"></i>"
+#  name = "Science communication"
+#  url = "#scicomm"
+#  weight = 40
 
-[[main]]
-  pre = "<i class=\"fas fa-palette\" style=\"color: #000000;\"></i>"
-  name = "Art"
-  url = "#art"
-  weight = 50
+#[[main]]
+#  pre = "<i class=\"fas fa-palette\" style=\"color: #000000;\"></i>"
+#  name = "Art"
+#  url = "#art"
+#  weight = 50
   
 [[main]]
   pre = "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i>"
