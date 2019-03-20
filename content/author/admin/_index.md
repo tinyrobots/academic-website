@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kate Storrs"
+name = "Kate Storrs, PhD"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -79,4 +79,4 @@ user_groups = []
 
 +++
 
-Website under construction. More details coming soon!
+Website under construction. More coming soon!
