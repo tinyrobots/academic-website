@@ -25,7 +25,7 @@ abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuer
 summary = "An example talk using Academic's Markdown slides feature."
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
