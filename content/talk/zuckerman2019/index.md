@@ -1,6 +1,6 @@
 +++
 title = "Learning to See Stuff: Unsupervised Neural Networks Learn Idiosyncrasies of Human Perception"
-date = 2019-05-13T15:00:00  # KS: Should schedule page publish date, but seems to actually take as talk date?
+date = 2019-05-01T15:00:00  # Schedules page publish date...but also seems to use as talk date??
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -8,8 +8,8 @@ authors = []
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 # KS: These don't seem to work??
-# time_start = 2019-05-13T15:00:00
-# time_end = 2019-05-13T16:00:00
+time_start = 2019-05-13T15:00:00
+time_end = 2019-05-13T16:00:00
 # all_day = false
 
 # Location of event.
