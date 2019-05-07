@@ -5,11 +5,11 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-# title = "Academic Kickstart"
-# subtitle = ""
+title = " 'Why do things look the way they do?' "
+subtitle = "~ Kurt Koffka, 1933"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,8 +29,8 @@ weight = 2  # Order that this section will appear.
   gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "testbkg.jpg"  # Name of image in `static/img/`.
+  image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
