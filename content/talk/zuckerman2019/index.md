@@ -1,37 +1,31 @@
 +++
-title = "Learning to See Stuff: Unsupervised Neural Networks Learn Idiosyncrasies of Human Perception"
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-13"
-# date_end: "2030-06-01T15:00:00Z"
-all_day = false
-
-# Schedule page publish date (NOT talk date).
-# publishDate = 2017-01-01T00:00:00
+title = "Example Talk"
+date = 2017-01-01T00:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2030-06-01T13:00:00
+time_end = 2030-06-01T15:00:00
+all_day = false
+
 # Location of event.
-location = "Mortimer B. Zuckerman Mind Brain Behavior Institute, Columbia University, New York"
+location = "London, United Kingdom"
 
 # Name of event and optional event URL.
-event = "Invited Talk"
-event_url = ""
+event = "Academic Theme Conference"
+event_url = "https://example.org"
 
 # Abstract. What's your talk about?
-abstract = "How do we see the outside world? Materials with complex appearances, like a glossy bumpy surface seen under natural lighting, pose particular challenges for classical ‘inverse optics’ theories of perception, which assume the brain’s goal is to estimate physical quantities like the reflectance of surfaces. Nor is their perception easily explained by supervised deep learning models, which would require large datasets labelled with the true properties of physical scenes. However, recent advances in unsupervised deep learning provide a framework for explaining how representations could more plausibly emerge by learning to encode and predict visual inputs as efficiently and accurately as possible.
-
-I will present two projects in which unsupervised deep networks learn about simple simulated worlds from datasets of images generated from those worlds using physically-based rendering. In the first project, a PixelVAE network uses the unsupervised objectives of image compression and spatial prediction to learn about surfaces with different shapes, materials, and illuminations. In the second project, a PredNet network uses temporal prediction to learn from videos about objects with different shapes, motions, positions and materials. In both cases, the latent representations within the trained networks contain rich information about the underlying factors in the generating worlds, implying that unsupervised visual systems can automatically discover how to disentangle distal causal factors. Most remarkably, the representations of 'world factors' within the networks display certain idiosyncrasies of human perception. The PixelVAE model predicts human-perceived glossiness of novel surfaces better than ground-truth material gloss, and better than a deep network model directly supervised on gloss estimation. It predicts a known illusion in material perception, in which the perceived gloss of a constant material varies with surface shape, and is able to predict specific patterns of human errors for specific images.
-
-I suggest that many visual 'illusions,' such as failures of constancy, may be signatures of the way brains learn to see, by efficiently encoding and predicting proximal image data, and that unsupervised deep learning may thus provide a coherent explanation of both failures and successes in perception."
+abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "An example talk using Academic's Markdown slides feature."
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -43,7 +37,7 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "example-slides"
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
@@ -54,15 +48,12 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = ""
 url_video = ""
 url_code = ""
-
-# Demo talk page uses LaTeX math.
-math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -72,5 +63,5 @@ math = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point = "Right"
 +++
