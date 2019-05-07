@@ -5,7 +5,7 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = " 'Why do things look as they do?' "
@@ -42,3 +42,10 @@ subtitle = "~ Kurt Koffka, 1933"
  # CSS class.
  css_class = ""
 +++
+
+
+
+
+
+
+ 
