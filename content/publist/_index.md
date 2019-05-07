@@ -15,7 +15,7 @@ type = "docs" # Do not modify.
 
 ## **Peer Reviewed Journal Articles**  
 
-14. Fleming, R. W. & **Storrs, K. R.** (_under review_). Learning to see stuff. _Current Opinions in Behavioral Sciences_.
+14. Fleming, R. W. & **Storrs, K. R.** (_in press_). Learning to see stuff. _Current Opinions in Behavioral Sciences_.
 
 13. Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
 
@@ -54,6 +54,8 @@ type = "docs" # Do not modify.
 1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with lack of control in a social world (Chap. 2, pp. 35–48). New York: Routledge.  
 
 ## **Conference Presentations**  
+
+31. **Storrs, K. R.** & Fleming, R. W. (2019, August). Learning about shape, material, and illumination by predicting videos. _Submitted to the European Conference on Visual Perception, Leuven, Belgium._
 
 30. **Storrs, K. R.** & Fleming, R. W. (2019, May). Unsupervised neural networks learn idiosyncrasies of human gloss perception. _Talk to be presented at the Vision Sciences Society, St Pete’s Beach, Florida._
 
