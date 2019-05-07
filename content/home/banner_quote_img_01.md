@@ -42,10 +42,10 @@ subtitle = "~ Kurt Koffka, 1933"
  # CSS class.
  css_class = ""
 +++
-
-
-
-
-
-
- 
+  
+  
+  
+  
+  
+  
+   
