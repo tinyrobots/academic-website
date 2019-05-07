@@ -1,6 +1,6 @@
 +++
 title = "Learning to See Stuff: Unsupervised Neural Networks Learn Idiosyncrasies of Human Perception"
-date = 2017-01-13T15:00:00  # Schedule page publish date (not talk date).
+# date = 2017-01-13T15:00:00  # Schedule page publish date (not talk date).
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -8,7 +8,7 @@ authors = []
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2019-05-13T15:00:00
-# time_end = 2030-06-01T15:00:00
+time_end = 2019-05-13T16:00:00
 all_day = false
 
 # Location of event.
