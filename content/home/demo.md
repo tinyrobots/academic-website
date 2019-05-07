@@ -5,10 +5,10 @@
 
 widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = " 'Why do things look the way they do?' "
+title = " 'Why do things look as they do?' "
 subtitle = "~ Kurt Koffka, 1933"
 
 [design]
@@ -25,8 +25,8 @@ subtitle = "~ Kurt Koffka, 1933"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   image = "testbkg.jpg"  # Name of image in `static/img/`.
@@ -37,10 +37,8 @@ subtitle = "~ Kurt Koffka, 1933"
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 20px; padding-bottom: 20px;"
+ css_style = "padding-top: 40px; padding-bottom: 40px;"
  
  # CSS class.
  css_class = ""
 +++
-
-Test text.
