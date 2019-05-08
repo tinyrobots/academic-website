@@ -30,7 +30,7 @@ interval = 3000
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "sci_comm/famelab_win.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "sci_comm/famelab_eye.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 [[item]]
