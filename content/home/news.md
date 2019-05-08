@@ -11,7 +11,7 @@ weight = 40
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2, 2006"
+date_format = "Jan-02-06"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -28,11 +28,19 @@ date_format = "Jan 2, 2006"
   description = "Invited panellist for a Workshop for PhD Students and Postdocs the VSS conference: https://www.visionsciences.org/2019-student-workshops/"
   
 [[item]]
-  title = "Symposium:\n How Humans and Machines Learn to See"
+  title = "Awarded Humboldt Research Fellowship"
+  organization = "Alexander von Humboldt Foundation"
+  certificate_url = ""
+  date_start = "2019-03-18"
+  date_end = ""
+  description = "I have been awarded a Humboldt Research Fellowship for Postdoctoral Researchers, from the Alexander von Humboldt Foundation: https://www.humboldt-foundation.de/web/home.html! I will take up the fellowship soon in 2019, and work with Prof. Roland Fleming at the Justus-Liebig University in Giessen, Germany, on unsupervised deep learning of visual materials and objects."
+  
+[[item]]
+  title = "Symposium: How Humans and Machines Learn to See"
   organization = "Rauischholzhausen Castle, Hesse, Germany"
   certificate_url = ""
   date_start = "2019-08-12"
   date_end = "2019-08-14"
-  description = "Organising a 3-day symposium bringing together machine learning researchers, computational visual neuroscientists, and developmental vision scientists together to discuss ecologically plausible visual learning at the Rauischholzhausen Castle, Hesse, Germany. Funded by the German Research Council (DFG) under the SFB project http://www.allpsych.uni-giessen.de/sfb/index_de.html"
+  description = "Together with Prof Roland Fleming, I am organising a 3-day symposium this August, bringing together machine learning researchers, computational visual neuroscientists, and developmental vision scientists to discuss ecologically plausible visual learning at the Rauischholzhausen Castle, Hesse, Germany. Funded by the German Research Council (DFG) under the SFB project 'Cardinal Mechanisms of Perception' http://www.allpsych.uni-giessen.de/sfb/index_de.html"
 
 +++
