@@ -26,7 +26,9 @@ interests = [
   "Visual perception",
   "Deep learning",
   "Psychophysics",
-  "Material and object perception"
+  "Material and object perception",
+  "Science communication",
+  "Art"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -78,5 +80,3 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-
-Website under construction. More coming soon!
