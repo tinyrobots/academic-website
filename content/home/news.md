@@ -28,7 +28,7 @@ date_format = "Jan 2, 2006"
   description = "Invited panellist for a Workshop for PhD Students and Postdocs the VSS conference: https://www.visionsciences.org/2019-student-workshops/"
   
 [[item]]
-  title = "Symposium: How Humans and Machines Learn to See"
+  title = "Symposium:\n How Humans and Machines Learn to See"
   organization = "Rauischholzhausen Castle, Hesse, Germany"
   certificate_url = ""
   date_start = "2019-08-12"
