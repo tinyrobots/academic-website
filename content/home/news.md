@@ -25,7 +25,7 @@ date_format = "Jan-02-06"
   certificate_url = ""
   date_start = "2019-05-21"
   date_end = ""
-  description = "Invited panellist for a Workshop for PhD Students and Postdocs the VSS conference: https://www.visionsciences.org/2019-student-workshops/"
+  description = "I'll be appearing as an invited panellist in a Workshop for PhD Students and Postdocs the VSS conference: https://www.visionsciences.org/2019-student-workshops/"
   
 [[item]]
   title = "Awarded Humboldt Research Fellowship"
@@ -33,7 +33,7 @@ date_format = "Jan-02-06"
   certificate_url = ""
   date_start = "2019-03-18"
   date_end = ""
-  description = "I have been awarded a Humboldt Research Fellowship for Postdoctoral Researchers, from the Alexander von Humboldt Foundation: https://www.humboldt-foundation.de/web/home.html! I will take up the fellowship soon in 2019, and work with Prof. Roland Fleming at the Justus-Liebig University in Giessen, Germany, on unsupervised deep learning of visual materials and objects."
+  description = "I was recently awarded a Humboldt Research Fellowship for Postdoctoral Researchers, from the Alexander von Humboldt Foundation: https://www.humboldt-foundation.de/web/home.html. I will take up the 2-year fellowship later in 2019, to continue my work with Prof. Roland Fleming at the Justus-Liebig University in Giessen, Germany, on unsupervised deep learning of visual materials and objects."
   
 [[item]]
   title = "Symposium: How Humans and Machines Learn to See"
