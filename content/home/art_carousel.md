@@ -7,7 +7,7 @@ weight = 110  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 5000
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -25,10 +25,10 @@ interval = 3000
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Art"
+  cta_label = "instagram"
   cta_url = "https://instagram.com/lotsoftinyrobots/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
 
 [[item]]
   title = "Art"
@@ -44,10 +44,10 @@ interval = 3000
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Art"
+  cta_label = "instagram"
   cta_url = "https://instagram.com/lotsoftinyrobots/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
 
 [[item]]
   title = "Art"
