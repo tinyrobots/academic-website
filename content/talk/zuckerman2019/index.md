@@ -1,5 +1,5 @@
 +++
-title = "Learning to See Stuff: Unsupervised Neural Networks Learn Idiosyncrasies of Human Perception"
+title = "Invited talk: Learning to See Stuff: Unsupervised Neural Networks Learn Idiosyncrasies of Human Perception"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
