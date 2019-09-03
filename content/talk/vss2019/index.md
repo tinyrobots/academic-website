@@ -1,5 +1,5 @@
 +++
-title = "Unsupervised Neural Networks Learn Idiosyncrasies of Human Gloss Perception"
+title = "VSS talk: Unsupervised Neural Networks Learn Idiosyncrasies of Human Gloss Perception"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
