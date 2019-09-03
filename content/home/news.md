@@ -18,23 +18,23 @@ date_format = "Jan-02-06"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  title = "How to Spend Your Time Well as a Young Researcher"
-  organization = "Vision Sciences Society, St Pete Beach, Florida"
-  certificate_url = ""
-  date_start = "2019-05-21"
-  date_end = ""
-  description = "I'll be appearing as an invited panellist in a Workshop for PhD Students and Postdocs the VSS conference: https://www.visionsciences.org/2019-student-workshops/"
   
 [[item]]
   title = "Awarded Humboldt Research Fellowship"
   organization = "Alexander von Humboldt Foundation"
   certificate_url = ""
-  date_start = "2019-03-18"
+  date_start = "2019-12-01"
   date_end = ""
-  description = "I was recently awarded a Humboldt Research Fellowship for Postdoctoral Researchers, from the Alexander von Humboldt Foundation: https://www.humboldt-foundation.de/web/home.html. I will take up the 2-year fellowship later in 2019, to continue my work with Prof. Roland Fleming at the Justus-Liebig University in Giessen, Germany, on unsupervised deep learning of visual materials and objects."
-  
+  description = "I was recently awarded a Humboldt Research Fellowship for Postdoctoral Researchers, from the Alexander von Humboldt Foundation: https://www.humboldt-foundation.de/web/home.html. I will take up the 2-year fellowship in late 2019, to continue my work with Prof. Roland Fleming at the Justus Liebig University in Giessen, Germany, on unsupervised deep learning of visual properties."
+
+[[item]]
+  title = "New paper published: Learning to See Stuff"
+  organization = "Current Opinion in Behavioral Science"
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = "My first paper with Roland Fleming is out now, in which we present a case for the importance of unsupervised learning in core visual perception: https://doi.org/10.1016/j.cobeha.2019.07.004."
+ 
 [[item]]
   title = "Symposium: How Humans and Machines Learn to See"
   organization = "Rauischholzhausen Castle, Hesse, Germany"
