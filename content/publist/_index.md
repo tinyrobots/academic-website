@@ -15,7 +15,7 @@ type = "docs" # Do not modify.
 
 ## **Peer Reviewed Journal Articles**  
 
-14. Fleming, R. W. & **Storrs, K. R.** (_in press_). Learning to see stuff. _Current Opinions in Behavioral Sciences_.
+14. Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences_.
 
 13. Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
 
@@ -55,9 +55,11 @@ type = "docs" # Do not modify.
 
 ## **Conference Presentations**  
 
-31. **Storrs, K. R.** & Fleming, R. W. (2019, August). Learning about shape, material, and illumination by predicting videos. _Submitted to the European Conference on Visual Perception, Leuven, Belgium._
+32. **Storrs, K. R.** & Fleming, R. W. (2019, August). Learning about shape, material, and illumination by predicting videos. _Talk presented at the European Conference on Visual Perception, Leuven, Belgium._
 
-30. **Storrs, K. R.** & Fleming, R. W. (2019, May). Unsupervised neural networks learn idiosyncrasies of human gloss perception. _Talk to be presented at the Vision Sciences Society, St Pete’s Beach, Florida._
+31. Hartmann, F., **Storrs, K. R.**, Morgenstern, Y. & Fleming, R. W. (2019, August). Unsupervised learning of viewpoints. _Poster presented at the European Conference on Visual Perception, Leuven, Belgium._
+
+30. **Storrs, K. R.** & Fleming, R. W. (2019, May). Unsupervised neural networks learn idiosyncrasies of human gloss perception. _Talk presented at the Vision Sciences Society, St Pete’s Beach, Florida._
 
 29. **Storrs, K. R.** (2018, November). Machines that learn the quirks and failures of human gloss perception. _Talk presented at The Skin of Things workshop at the Rijksmuseum, Amsterdam, Netherlands._
 
