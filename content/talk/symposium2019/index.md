@@ -1,5 +1,5 @@
 +++
-title = "Unsupervised Learning Predicts Perception and Misperception of Materials"
+title = "Symposium talk: Unsupervised Learning Predicts Perception and Misperception of Materials"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
@@ -31,7 +31,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["display"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
