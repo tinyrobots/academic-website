@@ -27,7 +27,7 @@ abstract = "How do we see the outside world? Materials with complex appearances,
 summary = ""
 
 # Is this a featured talk? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
