@@ -15,6 +15,8 @@ type = "docs" # Do not modify.
 
 ## **Peer Reviewed Journal Articles**  
 
+15. **Storrs, K. R.** & Fleming, R. W. (_under review_). Unsupervised learning predicts human perception and misperception of specular surface reflectance.
+
 14. Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences, 30_, 100-108.
 
 13. Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
@@ -55,7 +57,11 @@ type = "docs" # Do not modify.
 
 ## **Conference Presentations**  
 
-32. **Storrs, K. R.** & Fleming, R. W. (2019, August). Learning about shape, material, and illumination by predicting videos. _Talk presented at the European Conference on Visual Perception, Leuven, Belgium._
+34. **Storrs, K. R.** (2019, October). Unsupervised learning of object material and shape from images and videos. _Talk presented at the EPOS Symposium: Recent Advances in Computational Cognitive Neuroscience, Amsterdam, Netherlands._
+
+33. **Storrs, K. R.** & Fleming, R. W. (2019, August). Learning about shape, material, and illumination by predicting videos. _Talk presented at the European Conference on Visual Perception, Leuven, Belgium._
+
+32. **Storrs, K. R.** & Fleming, R. W. (2019, August). Unsupervised learning predicts perception and misperception of materials. _Talk presented at the SFB Symposium: How Humans and Machines Learn to See, Rauischholzhausen Castle, Hessen, Germany._
 
 31. Hartmann, F., **Storrs, K. R.**, Morgenstern, Y. & Fleming, R. W. (2019, August). Unsupervised learning of viewpoints. _Poster presented at the European Conference on Visual Perception, Leuven, Belgium._
 
