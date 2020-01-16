@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Giessen, Germany"
   date_start = "2019-12-01"
-  date_end = "2021-11-30"
+  date_end = ""
   description = """
   * Psychophysics
   * Unsupervised deep learning
@@ -36,7 +36,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Giessen, Germany"
   date_start = "2018-01-15"
-  date_end = ""
+  date_end = "2019-11-30"
   description = """
   * Psychophysics
   * Unsupervised deep learning
