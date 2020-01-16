@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoc in Visual Neuroscience"
+role = "Alexander von Humboldt Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -28,7 +28,7 @@ interests = [
   "Psychophysics",
   "Material and object perception",
   "Science communication",
-  "Art"
+  "Visual art"
 ]
 
 # Organizational groups that you belong to (for People widget)
