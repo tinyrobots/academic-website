@@ -55,9 +55,9 @@ type = "docs" # Do not modify.
 
 ## **Conference Presentations**  
 
-36. **Storrs, K. R.** & Fleming, R. W. (2020, May). Learning to see gloss by predicting videos. _Submitted to the Vision Sciences Society meeting, St Pete’s Beach, Florida._
+36. **Storrs, K. R.** & Fleming, R. W. (2020, May). Learning to see gloss by predicting videos. _Poster to be presented at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
-35. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May). Distinct identity information encoded in FFA and OFA. _Submitted to the Vision Sciences Society meeting, St Pete’s Beach, Florida._
+35. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May). Distinct identity information encoded in FFA and OFA. _Talk to be presented at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
 34. **Storrs, K. R.** (2019, October). Unsupervised learning of object material and shape from images and videos. _Talk presented at the EPOS Symposium: Recent Advances in Computational Cognitive Neuroscience, Amsterdam, Netherlands._
 
