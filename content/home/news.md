@@ -25,7 +25,7 @@ date_format = "Jan-02-06"
   certificate_url = ""
   date_start = "2020-01-05"
   date_end = ""
-  description = "As of recently, I've been appointed Social Media Editor for the Perception and i-Perception journals. See what we're up to at https://twitter.com/perceptionSAGE."
+  description = "As of recently, I've taken up a small role as Social Media Editor for the Perception and i-Perception journals. See what we're up to at https://twitter.com/perceptionSAGE."
   
 [[item]]
   title = "Awarded Humboldt Research Fellowship"
