@@ -5,7 +5,7 @@ title = "VSS 2020 Poster"
 publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Katherine R. Storrs"]
+authors = ["Katherine R. Storrs", "Roland W. Fleming"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
