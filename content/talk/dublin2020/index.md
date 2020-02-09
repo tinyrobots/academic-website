@@ -14,7 +14,7 @@ date_end = 2020-02-19T18:00:00
 all_day = false
 
 # Location of event.
-location = "Lecture hall LB11, Lloyd Building, Trinity College, Dublin"
+location = "Lecture hall LB11, Lloyd Building, Trinity College Dublin"
 
 # Name of event and optional event URL.
 event = "Unsupervised learning predicts human perception and misperception of material properties"
