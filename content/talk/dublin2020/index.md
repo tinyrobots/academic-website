@@ -1,5 +1,5 @@
 +++
-title = "Trinity College Dublin invited lecture in _Deep Learning Meets Neuroscience_ series"
+title = "Trinity College Dublin invited lecture in series: Deep Learning Meets Neuroscience"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
