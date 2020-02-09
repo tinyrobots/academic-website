@@ -9,8 +9,8 @@ authors = ["Katherine R. Storrs"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-03-01T12:00:00
-date_end = 2020-03-01T18:00:00
+date = 2020-04-01T12:00:00
+date_end = 2020-04-01T18:00:00
 all_day = false
 
 # Location of event.
