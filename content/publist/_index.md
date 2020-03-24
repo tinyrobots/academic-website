@@ -15,6 +15,8 @@ type = "docs" # Do not modify.
 
 ## **Peer Reviewed Journal Articles**  
 
+15. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.
+
 14. Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences, 30_, 100-108.
 
 13. Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
@@ -51,13 +53,13 @@ type = "docs" # Do not modify.
 
 2. **Storrs, K. R.** & Kriegeskorte, N. (_in press_). _Deep learning for cognitive neuroscience._ In M. Gazzaniga (Ed.), The Cognitive Neurosciences (6th Edition). Boston: MIT Press.
 
-1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with lack of control in a social world (Chap. 2, pp. 35–48). New York: Routledge.  
+1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with Lack of Control in a Social World (Chap. 2, pp. 35–48). New York: Routledge.  
 
 ## **Conference Presentations**  
 
-36. **Storrs, K. R.** & Fleming, R. W. (2020, May). Learning to see gloss by predicting videos. _Poster to be presented at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
+36. **Storrs, K. R.** & Fleming, R. W. (2020, May: Conference cancelled due to covid-19.). Learning to see gloss by predicting videos. _Accepted for poster presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
-35. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May). Distinct identity information encoded in FFA and OFA. _Talk to be presented at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
+35. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May: Conference cancelled due to covid-19). Distinct identity information encoded in FFA and OFA. _Accepted for oral presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
 34. **Storrs, K. R.** (2019, October). Unsupervised learning of object material and shape from images and videos. _Talk presented at the EPOS Symposium: Recent Advances in Computational Cognitive Neuroscience, Amsterdam, Netherlands._
 
