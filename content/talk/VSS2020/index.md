@@ -1,5 +1,5 @@
 +++
-title = "VSS 2020 Poster"
+title = "VSS 2020 accepted poster (conference cancelled)"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
