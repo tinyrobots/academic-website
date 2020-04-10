@@ -20,6 +20,14 @@ date_format = "Jan-02-06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Preprint on unsupervised learning of human-like gloss perception"
+  organization = ""
+  certificate_url = ""
+  date_start = "2020-04-07"
+  date_end = ""
+  description = "A preprint of one of the main projects I've been working on for the past couple of years is now up on bioRxiv: [Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance](https://www.biorxiv.org/content/10.1101/2020.04.07.026120v1)."
+  
+[[item]]
   title = "Social Media Editor for Perception and i-Perception journals"
   organization = "SAGE Publishers"
   certificate_url = ""
