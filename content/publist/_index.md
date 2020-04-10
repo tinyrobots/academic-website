@@ -13,15 +13,15 @@ type = "docs" # Do not modify.
   weight = 1
 +++
 
-## **Preprints**  
+## **Preprints & under review**  
 
-2. **Storrs, K. R.** & Fleming, R. W. (2020). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _bioRxiv: 2020.04.07.026120_ https://doi.org/10.1101/2020.04.07.026120
+3. **Storrs, K. R.** & Fleming, R. W. (2020). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _bioRxiv: 2020.04.07.026120_ https://doi.org/10.1101/2020.04.07.026120
 
-1. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
+2. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
+
+1. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.
 
 ## **Peer Reviewed Journal Articles**  
-
-15. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.
 
 14. Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences, 30_, 100-108.
 
@@ -62,6 +62,8 @@ type = "docs" # Do not modify.
 1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with Lack of Control in a Social World (Chap. 2, pp. 35–48). New York: Routledge.  
 
 ## **Conference Presentations**  
+
+37. **Storrs, K. R.** (2020, March). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _Contributed talk presented at the [Neuromatch](https://www.neuromatch.io/) online computational neuroscience conference, 31st March 2020._
 
 36. **Storrs, K. R.** & Fleming, R. W. (2020, May: Conference cancelled due to covid-19.). Learning to see gloss by predicting videos. _Accepted for poster presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
