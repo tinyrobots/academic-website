@@ -19,7 +19,7 @@ type = "docs" # Do not modify.
 
 2. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
 
-1. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.
+<!--1. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.-->
 
 ## **Peer Reviewed Journal Articles**  
 
