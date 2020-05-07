@@ -27,7 +27,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
+    exclude_featured = true 
     exclude_past = false
     exclude_future = false
     
