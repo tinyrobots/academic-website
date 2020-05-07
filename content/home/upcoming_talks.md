@@ -6,7 +6,7 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Upcoming Talks"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
 [content]
@@ -28,7 +28,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-    exclude_past = true
+    exclude_past = false
     exclude_future = false
     
 [design]
