@@ -15,11 +15,15 @@ type = "docs" # Do not modify.
 
 ## **Preprints & under review**  
 
+5. **Storrs, K. R.** & Maiello, G. (_under review_) A model for neural network modelling in neuroscience: Journal Club commentary on Rideaux & Welchman (2020). _Journal of Neuroscience_.
+
+4. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (2020) Diverse deep neural networks all predict human IT well, after training and fitting. _bioRxiv: 2020.05.07.082743_. https://doi.org/10.1101/2020.05.07.082743
+
+3. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (2020). FFA and OFA encode distinct types of face identity information. _bioRxiv: 2020.05.12.090878_. https://doi.org/10.1101/2020.05.12.090878
+
 2. **Storrs, K. R.** & Fleming, R. W. (2020). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _bioRxiv: 2020.04.07.026120_ https://doi.org/10.1101/2020.04.07.026120
 
 1. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
-
-<!--1. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (_under review_). Distinct face identity information is encoded in FFA and OFA. _Nature Human Behaviour_.-->
 
 ## **Peer Reviewed Journal Articles**  
 
