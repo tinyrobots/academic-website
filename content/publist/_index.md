@@ -15,6 +15,8 @@ type = "docs" # Do not modify.
 
 ## **Preprints & under review**  
 
+6. **Storrs, K. R.** & Fleming, R. W. (_under review_). Learning about the world by learning about images. _Current Directions in Psychological Science_
+
 5. **Storrs, K. R.** & Maiello, G. (_under review_) A model for neural network modelling in neuroscience: Journal Club commentary on Rideaux & Welchman (2020). _Journal of Neuroscience_.
 
 4. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (2020) Diverse deep neural networks all predict human IT well, after training and fitting. _bioRxiv: 2020.05.07.082743_. https://doi.org/10.1101/2020.05.07.082743
