@@ -13,7 +13,7 @@ role = "Alexander von Humboldt Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Justus-Liebig University, Giessen, Germany", url = "" } ]
+organizations = [ { name = "Justus Liebig University, Giessen, Germany", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
