@@ -63,7 +63,7 @@ type = "docs" # Do not modify.
 
 ## **Book Chapters**  
 
-2. **Storrs, K. R.** & Kriegeskorte, N. (_in press_). _Deep learning for cognitive neuroscience._ In M. Gazzaniga (Ed.), The Cognitive Neurosciences (6th Edition). Boston: MIT Press.
+2. **Storrs, K. R.** & Kriegeskorte, N. (2020). _Deep learning for cognitive neuroscience._ In M. Gazzaniga (Ed.), The Cognitive Neurosciences (6th Edition). Boston: MIT Press.
 
 1. Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). _The motivation for control: Loss of control promotes energy, action and effort._ In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with Lack of Control in a Social World (Chap. 2, pp. 35–48). New York: Routledge.  
 
