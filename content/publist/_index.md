@@ -15,19 +15,19 @@ type = "docs" # Do not modify.
 
 ## **Preprints & under review**  
 
-6. **Storrs, K. R.** & Fleming, R. W. (_under review_). Learning about the world by learning about images. _Current Directions in Psychological Science_
+3. **Storrs, K. R.** & Fleming, R. W. (under review). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. Revise and resubmit decision at _Nature Human Behaviour_. Preprint: _bioRxiv: 2020.04.07.026120_ https://doi.org/10.1101/2020.04.07.026120
 
-5. **Storrs, K. R.** & Maiello, G. (_under review_) A model for neural network modelling in neuroscience: Journal Club commentary on Rideaux & Welchman (2020). _Journal of Neuroscience_.
-
-4. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (2020) Diverse deep neural networks all predict human IT well, after training and fitting. _bioRxiv: 2020.05.07.082743_. https://doi.org/10.1101/2020.05.07.082743
-
-3. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (2020). FFA and OFA encode distinct types of face identity information. _bioRxiv: 2020.05.12.090878_. https://doi.org/10.1101/2020.05.12.090878
-
-2. **Storrs, K. R.** & Fleming, R. W. (2020). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _bioRxiv: 2020.04.07.026120_ https://doi.org/10.1101/2020.04.07.026120
+2. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (under review) Diverse deep neural networks all predict human IT well, after training and fitting. Revise and resubmit decision at _Journal of Cognitive Neuroscience_. Preprint: _bioRxiv: 2020.05.07.082743_. https://doi.org/10.1101/2020.05.07.082743
 
 1. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
 
 ## **Peer Reviewed Journal Articles**  
+
+17. **Storrs, K. R.** & Fleming, R. W. (in press). Learning about the world by learning about images. _Current Directions in Psychological Science_
+
+16. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (in press). FFA and OFA encode distinct types of face identity information. Accepted at _Journal of Neuroscience_. Preprint: _bioRxiv: 2020.05.12.090878_. https://doi.org/10.1101/2020.05.12.090878
+
+15. **Storrs, K. R.** & Maiello, G. (2020) A model for neural network modelling in neuroscience: Journal Club commentary on Rideaux & Welchman (2020). _Journal of Neuroscience 40_(37):7010-7012.
 
 14. Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences, 30_, 100-108.
 
@@ -69,9 +69,19 @@ type = "docs" # Do not modify.
 
 ## **Conference Presentations**  
 
+42. **Storrs, K.R.** & Fleming, R. W. (2021, May). Learning to see material from motion by predicting videos. Submitted to the Virtual Vision Sciences Society Conference, USA.
+
+41. Jozwik, K.M^, O'Keeffe, J.^, **Storrs, K.R.^**, & Kriegeskorte, N. (2021, May). Facial similarity judgements are well predicted by image-computable DNNs and a statistical face distribution model. Submitted to the Virtual Vision Sciences Society Conference, USA.
+
+40. **Storrs, K.R.**, & Fleming, R.W. (2021, March). Unsupervised learning predicts both successes and failures of gloss constancy. Submitted to TeaP (Tagung experimentell arbeitender Psychologen (Conference of Experimental Psychologists)), Ulm, Germany.
+
+39. Maiello, G., **Storrs, K.R.**, Quintus, A.J., & Fleming, R.W. (2021, March). Visualizing mental representations by evolving them from noise. Submitted to TeaP (Tagung experimentell arbeitender Psychologen (Conference of Experimental Psychologists)), Ulm, Germany.
+
+38. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May). Distinct identity information encoded in FFA and OFA. Oral presentation at the Virtual Vision Sciences Society meeting, USA.
+
 37. **Storrs, K. R.** (2020, March). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. _Contributed talk presented at the [Neuromatch](https://www.neuromatch.io/) online computational neuroscience conference, 31st March 2020._
 
-36. **Storrs, K. R.** & Fleming, R. W. (2020, May: Conference cancelled due to covid-19.). Learning to see gloss by predicting videos. _Accepted for poster presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
+36. **Storrs, K. R.** & Fleming, R. W. (2020, May: withdrawn after physical conference cancelled due to covid-19.). Learning to see gloss by predicting videos. _Accepted for poster presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
 35. Garrido, L., Tsantani, M., **Storrs, K. R.**, McGettigan, C., & Kriegeskorte, N. (2020, May: Conference cancelled due to covid-19). Distinct identity information encoded in FFA and OFA. _Accepted for oral presentation at the Vision Sciences Society meeting, St Pete’s Beach, Florida._
 
