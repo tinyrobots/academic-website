@@ -20,6 +20,22 @@ date_format = "Jan-02-06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Paper accepted at Nature Human Behaviour"
+  organization = "Nature Human Behaviour"
+  certificate_url = ""
+  date_start = "2021-03-10"
+  date_end = ""
+  description = "My main recent project, a statistical learning account of material perception, has been accepted at Nature Human Behaviour. You can read the accepted version in preprint form on bioRxiv: [Unsupervised learning predicts human perception and misperception of gloss](https://www.biorxiv.org/content/10.1101/2020.04.07.026120v3)."
+  
+[[item]]
+  title = "Paper accepted at Journal of Cognitive Neuroscience"
+  organization = "Journal of Cognitive Neuroscience"
+  certificate_url = ""
+  date_start = "2021-02-26"
+  date_end = ""
+  description = "A major project from my previous postdoc, with Niko Kriegeskorte, has been accepted for publication. You can read it in preprint from on bioRxiv: [Diverse deep neural networks all predict human IT well, after training and fitting](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1)."
+  
+[[item]]
   title = "Preprint on unsupervised learning of human-like gloss perception"
   organization = "bioRxiv"
   certificate_url = ""
