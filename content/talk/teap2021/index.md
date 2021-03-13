@@ -5,7 +5,7 @@ title = "Symposium organiser and speaker at TeaP 2021"
 publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Katherine R. Storrs", "Roland W. Fleming"]
+authors = ["Alban Flachot", "Katherine R. Storrs", "Christina Funke", "Kshitij Diwedi", "Martin Hebart", "Katharina Dobs"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,11 +17,15 @@ all_day = false
 location = "TeaP"
 
 # Name of event and optional event URL.
-event = "Unsupervised learning predicts both successes and failures of gloss constancy"
+event = "Developments in deep neural network models of perception: From low- to high-level vision"
 event_url = "https://cops.ifp.uni-ulm.de/teap2021/"
 
 # Abstract. What's your talk about?
-abstract = "We rely on vision to understand the physical structure of our surroundings. Yet, the raw visual input is ambiguous—retinal images result from complex interactions between 3D shape, lighting and surface reflectance. How do we disentangle these to perceive individual physical quantities, like how glossy a surface is? We reasoned that, paradoxically, it may be possible to learn to infer properties of the distal world by learning to model statistical structure in proximal images. To test this, we rendered 10,000 images of bumpy surfaces of random colours, bump heights, illuminations, and gloss levels. We trained an unsupervised neural network to learn the statistics of this dataset by learning to predict pixel values in images, and then compared its internal representations with human gloss judgments. Despite receiving no information about gloss, shape or lighting during training, we found that the model spontaneously clustered images according to physical properties like reflectance and illumination. Most strikingly, it also displayed characteristic 'illusions' of human gloss perception caused by interactions between material, shape and illumination. For example, both humans and the model tended to see more highly curved surfaces as glossier. Across four psychophysical experiments, we found that the model's representations predicted specific patterns of successes and errors in human gloss perception better than ground truth, supervised neural networks, or diverse rival models. We suggest that unsupervised statistical learning may explain both the broad successes and idiosyncratic errors in our perception of physical quantities, in vision and beyond."
+abstract = "Deep neural networks (DNNs) have revolutionised computer vision, often now recognising objects and faces as well as humans can. An initial wave of fMRI and electrophysiological studies around 2015 showed that features in object-recognition-trained DNNs predict neural responses in high-level visual cortex. DNNs have since flourished as models of perception, with diverse custom networks, training tasks, and evaluation methods emerging. The talks in this symposium highlight a range of approaches to current challenges, as well as spanning the gamut of visual processing from color perception, through material and contour perception, to object and face recognition. 
+
+One open challenge is building DNNs with ecologically plausible training tasks and experience. Katherine Storrs explores how perceptual dimensions can form in DNNs through unsupervised statistical learning, without the need for labelled examples. Katharina Dobs and Kshitij Dwivedi tease apart how experience of different visual diets and ecologically-relevant learning objectives affect representations in DNNs, and their performance as models of brain and behaviour. 
+
+As DNNs become more powerful, it becomes crucial to find nuanced ways to compare their perception to ours. Alban Flachot uses a large-scale custom dataset to probe how the fundamental visual competencies of colour perception and constancy develop. Judy Borowski shows how tasks like closed-contour detection present particular challenges to artificial vision, providing leverage to study functional differences. Finally, the talks showcase approaches for peering inside the 'black box' of DNNs. For example, Martin Hebart presents a novel data-driven method for finding interpretable dimensions in DNNs, and compares these to those underlying human perception. Collectively, the talks capture the diversity of DNN modelling in vision science."
 
 # Summary. An optional shortened abstract.
 summary = ""
