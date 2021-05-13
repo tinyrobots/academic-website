@@ -20,12 +20,12 @@ date_format = "Jan-02-06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper accepted at Nature Human Behaviour"
+  title = "Paper published in Nature Human Behaviour"
   organization = "Nature Human Behaviour"
   certificate_url = ""
-  date_start = "2021-03-10"
+  date_start = "2021-05-07"
   date_end = ""
-  description = "My main recent project, a statistical learning account of material perception, has been accepted at Nature Human Behaviour. You can read the accepted version in preprint form on bioRxiv: [Unsupervised learning predicts human perception and misperception of gloss](https://www.biorxiv.org/content/10.1101/2020.04.07.026120v3)."
+  description = "My main recent project, a statistical learning account of material perception, has recently come out in Nature Human Behaviour: [Unsupervised learning predicts human perception and misperception of gloss](https://www.nature.com/articles/s41562-021-01097-6). PDF of press release available [here (in German)](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_JLU_DE.pdf) and in [English translation](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_website_EN.pdf)"
   
 [[item]]
   title = "Paper accepted at Journal of Cognitive Neuroscience"
