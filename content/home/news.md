@@ -73,6 +73,6 @@ date_format = "Jan-02-06"
   certificate_url = ""
   date_start = "2019-08-12"
   date_end = "2019-08-14"
-  description = "Together with Prof Roland Fleming, I organised a 3-day symposium this August, bringing together machine learning researchers, computational visual neuroscientists, and developmental vision scientists to discuss ecologically plausible visual learning at the Rauischholzhausen Castle, Hesse, Germany. Funded by the German Research Council (DFG) under the SFB project 'Cardinal Mechanisms of Perception' http://www.allpsych.uni-giessen.de/sfb/index_de.html"
+  description = "Together with Prof Roland Fleming, I organised a 3-day symposium this August, bringing together machine learning researchers, computational visual neuroscientists, and developmental vision scientists to discuss ecologically plausible visual learning at the Rauischholzhausen Castle, Hesse, Germany. Funded by the German Research Council (DFG) under the SFB project 'Cardinal Mechanisms of Perception' https://www.allpsych.uni-giessen.de/sfb/"
 
 +++
