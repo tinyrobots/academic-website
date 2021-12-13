@@ -15,15 +15,21 @@ type = "docs" # Do not modify.
 
 ## **Preprints & under review**  
 
-1. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
+1. Jóźwik*, K., O’Keeffe*, J., **Storrs*, K. R.**, & Kriegeskorte, N. (revise & resubmit decision at _PNAS_). Face dissimilarity judgements are predicted by representational distance in morphable and image-computable models. _bioRxiv: 2021.04.09.438859_ https://www.biorxiv.org/content/10.1101/2021.04.09.438859v2
+
+2. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
 
 ## **Peer Reviewed Journal Articles**  
 
-19. **Storrs, K. R.**, Anderson, B.L. & Fleming, R. W. (in press). Unsupervised learning predicts human perception and misperception of gloss. _Nature Human Behaviour_. Preprint: _bioRxiv: 2020.04.07.026120_ https://www.biorxiv.org/content/10.1101/2020.04.07.026120v3
+21. **Storrs, K. R.**, Anderson, B.L. & Fleming, R. W. (2021). Unsupervised learning predicts human perception and misperception of gloss. _Nature Human Behaviour_. https://www.nature.com/articles/s41562-021-01097-6
 
-18. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (accepted). Diverse deep neural networks all predict human IT well, after training and fitting. _Journal of Cognitive Neuroscience_. Preprint: _bioRxiv: 2020.05.07.082743_. https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1
+20. Rideaux, R., **Storrs, K. R.**, Maiello, G., & Welchman, A. E. (2021). How multisensory neurons solve causal inference. _Proceedings of the National Academy of Sciences, 118_(32), e2106235118. https://doi.org/10.1073/pnas.2106235118
 
-17. **Storrs, K. R.** & Fleming, R. W. (in press). Learning about the world by learning about images. _Current Directions in Psychological Science_
+19. **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (2021). Diverse deep neural networks all predict human IT well, after training and fitting. _Journal of Cognitive Neuroscience_. https://doi.org/10.1162/jocn_a_01755
+
+18. Ritchie, J. B., Paulun, V., **Storrs, K. R.**, & Fleming, R. W. (2021). Material perception for philosophers. _Philosophy Compass_, (21:e12777). https://doi.org/10.1111/phc3.12777
+
+17. **Storrs, K. R.** & Fleming, R. W. (2021). Learning about the world by learning about images. _Current Directions in Psychological Science_
 
 16. Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (2021). FFA and OFA encode distinct types of face identity information. _Journal of Neuroscience, 41_(9), 1952-1969. https://doi.org/10.1523/JNEUROSCI.1449-20.2020
 
@@ -69,11 +75,21 @@ type = "docs" # Do not modify.
 
 ## **Conference Presentations**  
 
-43. **Storrs, K.R.** & Fleming, R. W. (2021, May). Learning to see material from motion by predicting videos. _Talk to be presented at the Virtual Vision Sciences Society Conference, USA._
+46. **Storrs, K. R.** (2021). Unsupervised learning for mid-level visual understanding. _Talk presented at the Bernstein Conference virtual meeting workshop "Machine Learning meets Neuroscience: from Spikes to Stimulation"._
 
-42. Maiello, G., **Storrs, K.R.**, Quintus, A.J., & Fleming, R.W. (2021, May). Evolving visual representations from noise. _Poster to be presented at the Virtual Vision Sciences Society Conference, USA._
+45. **Storrs, K.R.** & Fleming, R. W. (2021, May). Learning to see material from motion by predicting videos. _Talk presented at the Virtual Vision Sciences Society Conference, USA._
 
-41. Jozwik, K.M^, O'Keeffe, J.^, **Storrs, K.R.^**, & Kriegeskorte, N. (2021, May). Facial similarity judgements are well predicted by image-computable DNNs and a statistical face distribution model. _Poster to be presented at the Virtual Vision Sciences Society Conference, USA._
+44. Hartmann, F., **Storrs, K. R.**, Morgenstern, Y., Maiello, G., & Fleming, R. (2021). Human
+judgments of relative 3d pose of novel complex objects. _Poster presented at the Vision
+Sciences Society virtual meeting, USA._
+
+43. Morgenstern, Y., **Storrs, K. R.**, Schmidt, F., Hartmann, F., Tiedemann, H., & Fleming, R. (2021).
+Modelling local and global explanations for shape aftereffects with naturalistic novel
+stimuli. _Poster presented at the Vision Sciences Society virtual meeting, USA._
+
+42. Maiello, G., **Storrs, K.R.**, Quintus, A.J., & Fleming, R.W. (2021, May). Evolving visual representations from noise. _Poster presented at the Virtual Vision Sciences Society Conference, USA._
+
+41. Jozwik, K.M^, O'Keeffe, J.^, **Storrs, K.R.^**, & Kriegeskorte, N. (2021, May). Facial similarity judgements are well predicted by image-computable DNNs and a statistical face distribution model. _Poster presented at the Virtual Vision Sciences Society Conference, USA._
 
 40. **Storrs, K.R.**, & Fleming, R.W. (2021, March). Unsupervised learning predicts both successes and failures of gloss constancy. _Talk presentation at TeaP (Tagung experimentell arbeitender Psychologen (Conference of Experimental Psychologists)), Ulm, Germany._
 
