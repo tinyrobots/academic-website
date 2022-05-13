@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Alexander von Humboldt Research Fellow"
+role = "Postdoctoral researcher in Giessen, Germany (current). Soon to be senior lecturer in the School of Psychology, University of Auckland, New Zealand (from November 2022)."
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
