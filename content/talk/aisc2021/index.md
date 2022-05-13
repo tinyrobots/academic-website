@@ -1,5 +1,5 @@
 +++
-title = "Invited speaker, 17th Annual Conference of the Italian Association of Cognitive Science"
+title = "Keynote address, 17th Annual Conference of the Italian Association of Cognitive Science"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
