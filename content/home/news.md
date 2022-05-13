@@ -20,12 +20,44 @@ date_format = "Jan-02-06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Paper published in Nature Human Behaviour"
+  title = "Joining the faculty of the University of Auckland, late 2022"
+  organization = "University of Auckland, New Zealand"
+  certificate_url = ""
+  date_start = "2022-11-01"
+  date_end = ""
+  description = "I am thrilled to be joining the School of Psychology at the University of Auckland from 1st November 2022 as a Senior Lecturer. I will take up a Marsden Fast Start grant (project title 'Learning to see the world: visual understanding through unsupervised learning'), lecture, and establish my own research group."
+  
+[[item]]
+  title = "Facial similarity modelling paper accepted in PNAS"
+  organization = "PNAS"
+  certificate_url = ""
+  date_start = "2022-04-01"
+  date_end = ""
+  description = "A long-running collaboration with Kamila Jozwik and others from my time in Niko Kriegeskorte's lab has been accepted at PNAS. Preprint available [here](https://www.biorxiv.org/content/10.1101/2021.04.09.438859v3)"
+  
+[[item]]
+  title = "Awarded 3-year Marsden Fast Start Grant"
+  organization = "Royal Society Te Apārangi, New Zealand"
+  certificate_url = ""
+  date_start = "2021-11-03"
+  date_end = ""
+  description = "Awarded a three-year grant to establish an independent research programme 'Learning to see the world: visual understanding through unsupervised learning' from the Royal Society of New Zealand [(grant announcements)](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2021/)."
+  
+[[item]]
+  title = "Multisensory modelling paper accepted in PNAS"
+  organization = "PNAS"
+  certificate_url = ""
+  date_start = "2021-07-01"
+  date_end = ""
+  description = "A collaboration with Reuben Rideaux, Guido Maiello and Andrew Welchman on how multisensory neurons solve causal inference, has been accepted at PNAS: [read it here](https://doi.org/10.1073/pnas.2106235118)"
+  
+[[item]]
+  title = "Unsupervised gloss paper published in Nature Human Behaviour"
   organization = "Nature Human Behaviour"
   certificate_url = ""
   date_start = "2021-05-07"
   date_end = ""
-  description = "My main recent project, a statistical learning account of material perception, has recently come out in Nature Human Behaviour: [Unsupervised learning predicts human perception and misperception of gloss](https://www.nature.com/articles/s41562-021-01097-6). PDF of press release available [here (in German)](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_JLU_DE.pdf) and in [English translation](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_website_EN.pdf)"
+  description = "My first major project with Roland Fleming, a statistical learning account of material perception, has recently come out in Nature Human Behaviour: [Unsupervised learning predicts human perception and misperception of gloss](https://www.nature.com/articles/s41562-021-01097-6). PDF of press release available [here (in German)](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_JLU_DE.pdf) and in [English translation](https://github.com/tinyrobots/academic-website/blob/master/content/author/admin/StorrsAndersonFleming_pressrelease_website_EN.pdf)"
   
 [[item]]
   title = "Paper accepted at Journal of Cognitive Neuroscience"
@@ -33,15 +65,7 @@ date_format = "Jan-02-06"
   certificate_url = ""
   date_start = "2021-02-26"
   date_end = ""
-  description = "A major project from my previous postdoc, with Niko Kriegeskorte, has been accepted for publication. You can read it in preprint from on bioRxiv: [Diverse deep neural networks all predict human IT well, after training and fitting](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1)."
-  
-[[item]]
-  title = "Preprint on unsupervised learning of human-like gloss perception"
-  organization = "bioRxiv"
-  certificate_url = ""
-  date_start = "2020-04-07"
-  date_end = ""
-  description = "A preprint of one of the main projects I've been working on for the past couple of years is now up on bioRxiv: [Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance](https://www.biorxiv.org/content/10.1101/2020.04.07.026120v1)."
+  description = "A major project from my postdoc with Niko Kriegeskorte has been accepted at the Journal of Cognitive Neuroscience: [Diverse deep neural networks all predict human IT well, after training and fitting](https://doi.org/10.1162/jocn_a_01755)."
   
 [[item]]
   title = "Social Media Editor for Perception and i-Perception journals"
