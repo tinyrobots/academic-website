@@ -1,5 +1,5 @@
 +++
-title = "Invited talk, Vrije Universiteit Amsterdam"
+title = "Talk, VSS 2022"
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
