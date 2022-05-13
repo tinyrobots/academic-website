@@ -19,7 +19,7 @@ type = "docs" # Do not modify.
 
 ## **Peer Reviewed Journal Articles**  
 
-22. Jóźwik*, K., O'Keeffe*, J., **Storrs*, K. R.**, Guo, W., Golan, T. & Kriegeskorte, N. (_in press_). Face dissimilarity judgements are predicted by representational distance in morphable and image-computable models. _PNAS. Preprint: https://www.biorxiv.org/content/10.1101/2021.04.09.438859v2
+22. Jóźwik*, K., O'Keeffe*, J., **Storrs*, K. R.**, Guo, W., Golan, T. & Kriegeskorte, N. (_in press_). Face dissimilarity judgements are predicted by representational distance in morphable and image-computable models. _PNAS. Preprint: https://www.biorxiv.org/content/10.1101/2021.04.09.438859v3
 
 21. **Storrs, K. R.**, Anderson, B.L. & Fleming, R. W. (2021). Unsupervised learning predicts human perception and misperception of gloss. _Nature Human Behaviour_. https://www.nature.com/articles/s41562-021-01097-6
 
