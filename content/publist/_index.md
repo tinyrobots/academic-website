@@ -15,11 +15,11 @@ type = "docs" # Do not modify.
 
 ## **Preprints & under review**  
 
-1. Jóźwik*, K., O’Keeffe*, J., **Storrs*, K. R.**, & Kriegeskorte, N. (revise & resubmit decision at _PNAS_). Face dissimilarity judgements are predicted by representational distance in morphable and image-computable models. _bioRxiv: 2021.04.09.438859_ https://www.biorxiv.org/content/10.1101/2021.04.09.438859v2
-
-2. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
+1. **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). _bioRxiv: 2020.03.23.003046_ https://doi.org/10.1101/2020.03.23.003046
 
 ## **Peer Reviewed Journal Articles**  
+
+22. Jóźwik*, K., O'Keeffe*, J., **Storrs*, K. R.**, Guo, W., Golan, T. & Kriegeskorte, N. (_in press_). Face dissimilarity judgements are predicted by representational distance in morphable and image-computable models. _PNAS. Preprint: https://www.biorxiv.org/content/10.1101/2021.04.09.438859v2
 
 21. **Storrs, K. R.**, Anderson, B.L. & Fleming, R. W. (2021). Unsupervised learning predicts human perception and misperception of gloss. _Nature Human Behaviour_. https://www.nature.com/articles/s41562-021-01097-6
 
