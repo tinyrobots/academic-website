@@ -27,7 +27,7 @@ abstract = "Deep neural networks (DNNs) have revolutionised computer vision, oft
 summary = ""
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
