@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior Lecturer in the School of Psychology, University of Auckland, New Zealand."
+role = "Senior Lecturer (US equivalent: Associate Professor)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Justus Liebig University, Giessen, Germany", url = "" } ]
+organizations = [ { name = "School of Psychology, University of Auckland, New Zealand", url = "https://profiles.auckland.ac.nz/katherine-storrs" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
